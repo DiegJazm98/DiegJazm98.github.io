@@ -14,6 +14,7 @@ tags:
 ---
 
 <h1>Línea Académica</h1>
+
 2003-2005: JARDIN DE INFANTES
 
 2006-2011: SECUNDARIA
