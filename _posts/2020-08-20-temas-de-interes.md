@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Temas de Interés
-date:       2014-06-10 12:31:19
+date:       2020-08-20 19:31:19
 summary:    See what the different elements looks like.
 categories: jekyll
 thumbnail: tv
@@ -11,6 +11,7 @@ tags:
  - Kamen Rider
 ---
 
+<h2>El Tokusatsu y sus Subdivisiones cómo medio de entretenimiento</h2>
 
 
 ![Thumper](https://i.imgur.com/DMCHDqF.jpg)
