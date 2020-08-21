@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Temas de Interés
+title:      El Tokusatsu
 date:       2020-08-20 19:31:19
 summary:    See what the different elements looks like.
 categories: jekyll
