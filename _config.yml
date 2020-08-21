@@ -1,7 +1,6 @@
 # Site settings
-title: "PROYECTO DE INTRODUCCIÒN A LA INGENIERÌA EN SOFTWARE"
+
 title: "Biografía"
-email: jacob@jacobtomlinson.co.uk
 description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
