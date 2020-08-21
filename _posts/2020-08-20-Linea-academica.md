@@ -2,7 +2,7 @@
 layout:     post
 title:      Línea Académica
 date:       2020-08-20 19:31:19
-author:     Jacob Tomlinson
+author:     Diego Carvajal Maridueña
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
 thumbnail: book
