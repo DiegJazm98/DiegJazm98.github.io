@@ -5,7 +5,7 @@ date:       2015-03-23 15:31:19
 author:     Jacob Tomlinson
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
-thumbnail:  heart
+thumbnail: book
 tags:
  - Escuela
  - colegio
@@ -13,8 +13,7 @@ tags:
  - Universidad
 ---
 
-Welcome to Carte Noire.
-
+<h1>Línea Académica</h1>
 Carte Noire began as a new theme for [my personal blog][1], but has now taken
 on a life of its own as a free theme for Jekyll.
 
