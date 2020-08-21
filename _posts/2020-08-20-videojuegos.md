@@ -4,7 +4,7 @@ title:      Videojuegos
 date:       2020-08-20 20:32:18
 summary:    Using thumbnails in your Carte Noire articles.
 categories: jekyll
-thumbnail: game
+thumbnail: videogames
 tags:
  - Videojuegos
 ---
