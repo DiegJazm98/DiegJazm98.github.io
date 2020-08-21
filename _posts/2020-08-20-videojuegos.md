@@ -32,4 +32,4 @@ Los videojuegos, sobre todo los de realidad virtual, ayudan a reducir la ansieda
 Las personas fanáticas de los juegos de acción tienen mayor sensibilidad para distinguir los cambios sutiles en el brillo de una imagen. ¡Wow!
 
 
-https://uniat.com/wp-content/uploads/2017/02/GAMER.jpg
+![Thumper](https://uniat.com/wp-content/uploads/2017/02/GAMER.jpg)
