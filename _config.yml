@@ -4,7 +4,7 @@ description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "Mi nombre es Diego Carvajal, Tengo 21 años. Nací el 17 de octubre del año 1998 en la ciudad de Guayaquil. Desde muy pequeño me gustó aprender nuevas cosas, entre lo principal es mi gusto por los idiomas; actualmente tengo un nivel intermedio-avanzado en el idioma inglés y estoy empezando en el jápones. A la edad de 5 años empecé la escuela primaria, donde me desempeñé en el aprendizaje. En la secundaria perdí un poco el hilo de ser disciplinado y pasé a ser un poco más sociable, ya que no lo era mucho. Entrando a bachillerato, fue una de las etapas má duras de mi vida, obtuve mi primer trabajo y decidí cambiar mi horario de estudio a nocturno, terminando así mis estudios de bachillerato en modalidad nocturna. luego de medio año de trabajar en la empresa en la que me contrataron, tuve que renunciar debido a que gracias a los cada vez más exigentes horarios de ingreso " 
-title_image: "_data/Diego.jpg"
+title_image: _data/Diego.jpg
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
