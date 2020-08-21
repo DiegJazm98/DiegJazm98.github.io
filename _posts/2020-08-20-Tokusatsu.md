@@ -42,3 +42,15 @@ Este género es quizá el más conocido por fans y no fans del mismo, ya que la 
 
 ![Thumper](https://i1.wp.com/www.theilluminerdi.com/wp-content/uploads/2020/01/mashin-sentai-kirameiger-e1577361749835.jpg)
 <h6>(Mashin Sentai Kirameiger)</h6>
+
+
+<h3>Ultraman</h3>
+Para terminar, uno de los héroes más recordados del género tokusatsu. Famoso a finales de los 60´s, 70´s y principios de los 80´s en Asia y Occidente, Ultraman.
+Ultraman  es un superhéroe ficticio de 40 metros de altura que apareció en la serie tokusatsu de la televisión japonesa, y la segunda Ultraserie Ultraman - Una Serie de Fantasía con Efectos Especiales (ウルトラマン - 空想特撮シルーズ; Urutoraman - Kûsô Tokusatsu Shirîzu), frecuentemente abreviado como Ultraman, la secuela de la serie Ultra Q.
+
+El programa fue producido por Tsuburaya Productions y fue emitido por el Tokyo Broadcasting System (TBS) del 17 de julio de 1966 al 9 de abril de 1967 con un total de 39 episodios (además de una pre-introducción especial que se emitió el 10 de julio de 1966).
+
+Ultraman es a veces considerado como la tercera competencia de Godzilla, debido a que aparecen también Kaijus.
+
+![Thumper](https://www.etcetera.com.mx/wp-content/uploads/2019/10/ultraman.jpg)
+<h6>(Dato curioso: Ultraman es una creación en conjunto con Marvel Comics)</h6>
