@@ -4,7 +4,7 @@ title:      Infinity Train y el trato de temas profundos
 date:       2020-08-20 20:32:18
 summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
 categories: jekyll
-thumbnail: jekyll
+thumbnail: heart
 tags:
  - Aceptación Personal
  - En busca de la felicidad 
