@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Welcome to Carte Noire
+title:      Línea Académica
 date:       2020-08-20 19:31:19
 author:     Jacob Tomlinson
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
