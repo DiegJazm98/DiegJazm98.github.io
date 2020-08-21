@@ -14,7 +14,7 @@ tags:
 <h2>El Tokusatsu y sus Subdivisiones cómo medio de entretenimiento</h2>
 
 
-![Thumper](https://i.imgur.com/DMCHDqF.jpg)
+![Thumper](https://i.pinimg.com/474x/a7/55/20/a7552086f1ae4ede7a79dc4cdc6187e8.jpg)
 
 
 
