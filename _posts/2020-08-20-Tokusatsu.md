@@ -26,17 +26,19 @@ La historia ocurre en un mundo plagado por agentes de Shocker, una organización
 
 Con su cordura y el restante de su conciencia moral, Hongō asume la identidad del Kamen Rider, quien monta su motocicleta Cyclone y lucha contra Shocker con sus energías recientemente adquiridas.
 
-![Thumper](https://www.nippon.com/es/ncommon/contents/views/99294/99294.jpg)
 <h6>(Kame Rider 1)</h6>
+![Thumper](https://www.nippon.com/es/ncommon/contents/views/99294/99294.jpg)
 
-![Thumper](https://vignette.wikia.nocookie.net/kamenrider/images/3/31/Kamen_Rider_Saber_Poster.jpg/revision/latest/scale-to-width-down/360?cb=20200729114658)
 <h6>(Kame Rider Saber)</h6>
+![Thumper](https://vignette.wikia.nocookie.net/kamenrider/images/3/31/Kamen_Rider_Saber_Poster.jpg/revision/latest/scale-to-width-down/360?cb=20200729114658)
+
 
 <h3>Super Sentai</h3>
 Este género es quizá el más conocido por fans y no fans del mismo, ya que la franquicia de Power Rangers está inspirada en este género del Tokusatsu. Aaptando una de las temporadas del super sentai (Zyuranger) y convirtiéndola en la mítica serie "Mighty Morphin Power Rangers, Saban (ejecutivo y dueño de la productora de los power rangers) continuó mucho más tiempo con la adaptación de series del super sentai, siendo la más famosa temporada aquella que a mencionamos. Mighty Morphin Power Rangers es parte de la cultura pop de varias personas sean grandes y adultos, es por eso que se recuerda con mucho cariño a esta serie. Actualmente el Super Sentai está en transmisiónvde su más reciente temporada "Mashin Sentai Kirameiger".
 
 ![Thumper](https://www.nerdix.cl/wp-content/uploads/2018/08/top-the-cast-of-toeis-kyoryu-sentai-zyuranger-bottom-the-cast-of-sabans-mighty-morphin-power.jpeg)
 <h6>(En la parte superior se observa al cast de Zyuranger y en la inferior al cast de Mighty Morphin Power Ranger)</h6>
+
 
 ![Thumper](https://i1.wp.com/www.theilluminerdi.com/wp-content/uploads/2020/01/mashin-sentai-kirameiger-e1577361749835.jpg)
 <h6>(Mashin Sentai Kirameiger)</h6>
